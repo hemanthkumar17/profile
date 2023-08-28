@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Welcome to My Profile</h1>
         <img
-          src="static\images\profile_image.jpeg" // Replace with your profile image URL
+          src="../assets/profile_image.jpeg" // Replace with your profile image URL
           alt="Profile"
           style={{ width: '200px', borderRadius: '50%' }}
         />
