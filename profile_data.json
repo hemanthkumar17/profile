@@ -1,0 +1,86 @@
+{
+    "_description": "",
+    "profile_info": {
+        "name": "Hemanth Kumar Jayakumar",
+        "email": [
+            "hemanth17112000@gmail.com",
+            "hj51@rice.edu"
+        ],
+        "phone": [
+            "+1 (832) 675-3290",
+            "+01 8220710441"
+        ],
+        "location": "Houston, TX",
+        "linkedin": "https://www.linkedin.com/in/hemanth-kumar-j",
+        "github": "https://github.com/hemanthkumar17",
+        "intros": [
+            "I describe myself with confidence as a Tech enthusiast traveling through Deep Learning, working on programming as an interest rather than a need. I am an MCS Student at Rice University with ML and Data science specialization. My work within and outside academia lies in developing software tools and leveraging machine learning and deep learning techniques to create efficiency-focused applications that people can use in their daily life. I wake up thinking to myself, \"What new exciting project should I work on today\". Most of my innovation happens by just thinking about what I can use to improve how I do things daily. \n\tMachine and Deep Learning have been embedded within my passion for CS and became my mode of transport to any solution. I took a diverse range of courses throughout my undergraduate program from Web Development, Algorithmic research, Machine Learning, Graph Machine Learning, Image Processing and Computer vision, Operating Systems through Quantum Computing, and Cryptography. While most of them were electives and weren't easy, they were fun and helpful, especially to make conversations. \n\tI have worked on several projects within the Software domain, including building applications, as well as machine learning creating models and pipelines building my foundations starting from my academia through personal projects and internships. My background started with application development all through machine learning, NLP, and computer vision, and at a crossroads of NLP, CV, and their combinations at the moment. I believe I can truly confirm and solidify my fundamentals in these fields through a summer internship while I contribute to production-tuned pipelines."
+        ]
+    },
+    "languages": [
+        {
+            "name": "Python",
+            "proficiency": "9"
+        },
+        {
+            "name": "C",
+            "proficiency": "6"
+        },
+        {
+            "name": "C++",
+            "proficiency": "6"
+        },
+        {
+            "name": "Java",
+            "proficiency": "4"
+        },
+        {
+            "name": "Javascript",
+            "proficiency": "4"
+        },
+        {
+            "name": "HTML",
+            "proficiency": "4"
+        },
+        {
+            "name": "CSS (Not a language, but still)",
+            "proficiency": "3"
+        },
+        {
+            "name": "SQL",
+            "proficiency": "7"
+        },
+        {
+            "name": "bash",
+            "proficiency": "5"
+        }
+    ],
+    "work_experience": {
+        "company_name": "Futurewei Technologies, Inc.",
+        "role": "Research Intern - Advanced Solutions",
+        "description": [
+            "Devised an end-to-end finetuning approach to Llama-based LLMs introducing targeted knowledge in a petabyte-scale Data-centric training approach using Huggingface, DeepSpeed, and Pytorch.",
+            "Scaled the pipelines across 65B+ model training over an 8xA100 cluster to digest 20 Million+ Tokens hours each epoch, comparing with Langchain-based VectorDB while creating methodologies to adapt when switching to newer datasets and models to support future-oriented products.",
+            "Applied QLoRA and Full-Finetuning to Llama-based LLMs to improve the performance of the model on downstream tasks and to inject domain-specific knowledge to the model"
+        ]
+    },
+    "education": {
+
+    },
+    "projects": {
+
+    },
+    "faq": [
+        {
+            "question": "Please provide an example or evidence of your exceptional ability.",
+            "answer": "As I was working at Futurewei as part of my Summer Internship as a Research Intern, I was tasked to build a methodology to expose unstructured data at the scale of Petabytes to users via querying. I had singlehandedly built a large language model based off Llama(up to 65B), finetuned in different ways using these unstructured data which remarkably consumed the domain knowledge to answer the queries. Collaborating with a data engineer, I was able to pull this off within 2 months of time and in my opinion, this would be the most challenging yet significant achievement.",
+            "date": "2023-09-26"
+        }
+    ],
+    "motivations_to_apply": [
+        {
+            "company": "openai",
+            "motivation": "Ever since I stepped into the field of ML, I had been intrigued by how NLP works and the things it can achieve. I was naturally entranced by transformer networks and started my very first ML projects on Bert and GPT-2 models. Following this, 3 years later, I am still a fan of Transformer networks and finetune my own GPT-based Large Language Models and Bert models for personal, academic and professional use. My motivation to apply to this role is solely my interest to contribute to this domain and the company that pivots this domain."
+        }
+    ]
+}
